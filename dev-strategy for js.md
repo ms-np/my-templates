@@ -18,16 +18,15 @@ __As a fellow developer I can see the prepared repository__
 
 ### Repo
 
-1. Generate a new repo from [debugging-project-template](https://github.com/HackYourFutureBelgium/debugging-project-week-1)
-2. Create initial README file
+1. Generate a new repo from [any project-template](https://github.com/HackYourFutureBelgium/debugging-project-week-1)
+2. Add an initial README file
 3. Turn on GitHub Pages
 4. Add collaborators
-5. Create initial development-strategy and assign the steps
-6. Each team member translates dev strategy tasks into issues and assign to himself
-7. Add a .css file & link to it in the index.html
-8. Copy in [this wireframe](./wireframe.gif)
-9. Upload the libraries (images/fonts) and link to it in the index.html
-10. Add script file & link to it in the index.html
+5. Paste an initial development-strategy and assign the steps
+6. Translates dev strategy into issues and assign to the owners
+7. Add a .css file / a script file & link to it in the index.html
+8. Add icons libraries /fonts libraries and link to it in the index.html
+9. Copy in the wireframe image / add image folder
 
 ---
  
